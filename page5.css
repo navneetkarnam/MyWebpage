@@ -1,0 +1,30 @@
+h1	{
+	color: #10218F;
+	font-family: "chalkduster";
+	position: static;
+
+}
+
+h4{
+	/*background: rgb(100,30,50);*/
+	color: rgb(100,165,150);
+}
+
+li{
+	color: rgba(145,100,170,.6);
+}
+body{
+	background: lightgrey;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: static;
+
+}
+#toplist{
+	color: black;
+	background: yellow;
+}
+
+.test{
+	text-decoration:line-through;
+}
