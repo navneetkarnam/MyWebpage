@@ -1,0 +1,31 @@
+h1{
+	font-size: 5.0em;
+	font-family: georgia;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	
+}
+
+p{
+	font-family: arial;
+	font-size: 2.0em;
+	line-height: 2;
+	text-align: center;
+	font-family: 'Rationale', sans-serif;
+}
+
+body{
+	font-size: 10px;
+}
+
+span{
+	font-size: 2.0em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#ab1{
+	font-size: 10px;
+	font-weight: 200;
+	text-decoration: line-through;
+}
